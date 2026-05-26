@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # Pure Delight Hydrotherapy App
 
@@ -9,3 +10,6 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# Pure-Delight
+>>>>>>> 516670dd344fd513bd4a8b11fba3f142a6e78653
