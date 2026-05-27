@@ -275,16 +275,15 @@ export default function App() {
                 A cleanse from the inside out
               </h2>
               <p className="text-muted-foreground text-[17px] leading-relaxed mb-5">
-                Colon hydrotherapy, also known as colonic irrigation, is a
-                gentle, non-invasive procedure using filtered,
-                temperature-controlled water to flush waste, toxins and build-up
-                from the large intestine.
+                Pure Delight is a gentle colon hydrotherapy practice using filtered,
+                 temperature-controlled water to flush waste & build-up, supporting digestive health, 
+                 easing bloating and constipation, and restoring a feeling of lightness and natural energy.
+    
               </p>
               <p className="text-muted-foreground text-[17px] leading-relaxed mb-8">
-                At Pure Delight, we combine this time-honoured practice with
-                modern equipment and a nurturing environment to support your
-                digestive health, relieve bloating and constipation, and promote
-                a profound feeling of lightness and renewed energy.
+                Colon hydrotherapy, also known as a colon cleanse or colonic irrigation, 
+                is a soothing procedure that uses filtered, temperature-controlled water to flush away waste and build-up. 
+                It supports digestive health, relieves bloating and constipation, and leaves you feeling light, clear and energised.
               </p>
               <div className="flex flex-wrap gap-4">
                 {[
